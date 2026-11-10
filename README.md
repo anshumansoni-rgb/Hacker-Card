@@ -68,9 +68,6 @@ Overall I would rate this a 11/10 experience and would recommend every single te
 <img width="477" height="665" alt="Screenshot 2026-11-09 163752" src="https://github.com/user-attachments/assets/b51b017c-9e78-466d-b45a-c50ce12c47f7" />
 
 
-<img width="1801" height="73" alt="image" src="https://github.com/user-attachments/assets/60b41bd9-7a3e-4fe7-93df-86b46347e056" />
-
-.
 ## BOM ---> 
 
 | No. | Quantity | Comment | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier Part | Supplier |
