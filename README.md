@@ -68,14 +68,18 @@ Overall I would rate this a 11/10 experience and would recommend every single te
 
 <img width="477" height="665" alt="Screenshot 2026-11-09 163752" src="https://github.com/user-attachments/assets/b51b017c-9e78-466d-b45a-c50ce12c47f7" />
 
+## BOM ->
+- PCB manufacturing -> zbotic.in  Cost -> 14USD
+  
+- 100nF Capacitor - From a friend  Cost -> Free
 
-## BOM ---> 
+- NXP, NT3H2111W0FT1X chip -> Mouser India -> Cost ->1.38USD
 
-| No. | Quantity | Comment | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier Part | Supplier |
-|:---:|:--------:|---------|------------|-----------|-------|-------------------|--------------|---------------|----------|
-| 1 | 1 | 100nF | C1 | C0603 | 100nF | — | — | — | — |
-| 2 | 1 | 13.56MHz | U1 | TSSOP-8_L3.0-W3.0-P0.65-LS4.9-BL | 13.56MHz | NT3H2111W0FTTJ | NXP | C2654884 | LCSC |
+- Shipping -> Mouser+ZBOTIC Cost-> 12.84usd
 
+- Total ->28.22USD
+
+  
 ## Credits --->
 - ***EasyEDA*** - For PCB design
 
