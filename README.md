@@ -79,6 +79,6 @@ Overall I would rate this a 11/10 experience and would recommend every single te
 ## Credits --->
 - ***EasyEDA*** - For PCB design
 
-- ***Robu.in*** - Will be using to manufacture the PCB
+- ***zbotic.in*** - Will be using to manufacture the PCB
  
 - **[Hacker Card by Dhairya]https://github.com/DhairyaAPImaster/The-Hacker-Card)** - Readme template
