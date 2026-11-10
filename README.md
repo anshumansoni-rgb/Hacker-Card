@@ -77,7 +77,9 @@ Overall I would rate this a 11/10 experience and would recommend every single te
 
 - Shipping -> Mouser+ZBOTIC Cost-> 12.84usd
 
-- Total ->28.22USD
+- Acrylic side panel -> Amazon -> Cost -> 2.02 USD
+  
+- Total ->30.24USD
 
   
 ## Credits --->
