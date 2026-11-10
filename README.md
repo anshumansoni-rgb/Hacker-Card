@@ -74,3 +74,10 @@ Overall I would rate this a 11/10 experience and would recommend every single te
 |:---:|:--------:|---------|------------|-----------|-------|-------------------|--------------|---------------|----------|
 | 1 | 1 | 100nF | C1 | C0603 | 100nF | — | — | — | — |
 | 2 | 1 | 13.56MHz | U1 | TSSOP-8_L3.0-W3.0-P0.65-LS4.9-BL | 13.56MHz | NT3H2111W0FTTJ | NXP | C2654884 | LCSC |
+
+## Credits --->
+- ***EasyEDA*** - For PCB design
+
+- ***Robu.in*** - Will be using to manufacture the PCB
+ 
+- **[Hacker Card by Dhairya]https://github.com/DhairyaAPImaster/The-Hacker-Card)** - Readme template
