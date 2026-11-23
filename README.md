@@ -6,7 +6,8 @@
 
 **Note- the Onshape Source link -> https://cad.onshape.com/documents/5d954739c580830dd378c5d3/w/4db0d4aec6a6ace362a38c9a/e/05b9956443abda6b036d8768**
 
-### About
+## About
+***About Myself***:
 This was my fist ever PCB project and I started off with a simple one by making a hacker card (NFC Card), since my friend told me it is the easiest to start off with and TRUST ME, it genuinely was fun designing it, I can't even imagine what it would be like to build it and finally be using it IRL.... what it does is that it acts as a wireless transmitting device which can be used by anyone and coded through their phones or any other device which accepts wireless transmission though antennas on it...
 
 To answer the question of why I would make this project is because I wanted a payment gateway/ a card which could redirect people to my payment details by just scanning the QR code on the card itself or tap my card on the back of their phone so that their payment app may open.... To physically implement this, I would need to build this physically and test it out myself to see if it really works or not, if the redirections does not succeed for any reason, I may change the use case of this to something else that I may wish to show, perhaps, it would redirect to my socials where people can follow me (basically this card has no limits to its opportunities, and I am willing to explore all of it ;))
