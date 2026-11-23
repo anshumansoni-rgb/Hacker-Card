@@ -68,18 +68,16 @@ Overall I would rate this a 11/10 experience and would recommend every single te
 
 <img width="477" height="665" alt="Screenshot 2026-11-09 163752" src="https://github.com/user-attachments/assets/b51b017c-9e78-466d-b45a-c50ce12c47f7" />
 
-## BOM ->
-- PCB manufacturing -> zbotic.in  Cost -> 14USD
-  
-- 100nF Capacitor - From a friend  Cost -> Free
+## **Bill of Materials (BOM)**
 
-- NXP, NT3H2111W0FT1X chip -> Mouser India -> Cost ->1.38USD
-
-- Shipping -> Mouser+ZBOTIC Cost-> 12.84usd
-
-- Acrylic side panel -> Amazon -> Cost -> 2.02 USD
-  
-- Total ->30.24USD
+| Item                    | Supplier / Source                                                                                                                                | Cost (USD) | Link                                                                                                                                             |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| PCB Manufacturing       | [ZBOTIC](https://zbotic.in?utm_source=chatgpt.com)                                                                                               | $14.00     | [Website](https://zbotic.in?utm_source=chatgpt.com)                                                                                              |
+| 100nF Capacitor         | Friend                                                                                                                                           | Free       | N/A                                                                                                                                              |
+| NXP NT3H2111W0FT1X Chip | [Mouser India](https://www.mouser.in/en/ProductDetail/NXP-Semiconductors/NT3H2111W0FT1X?qs=5ptrxOxu%252BRZClHKQbf4S6Q==\&utm_source=chatgpt.com) | $1.38      | [Product Page](https://www.mouser.in/en/ProductDetail/NXP-Semiconductors/NT3H2111W0FT1X?qs=5ptrxOxu%252BRZClHKQbf4S6Q==\&utm_source=chatgpt.com) |
+| Shipping                | Mouser + ZBOTIC                                                                                                                                  | $12.84     | N/A                                                                                                                                              |
+| Acrylic Side Panel      | [Amazon](https://www.amazon.in/NEILL-Acrylic-Sheet-transparent-inches/dp/B0CRL2472S?utm_source=chatgpt.com)                                      | $2.02      | [Product Page](https://www.amazon.in/NEILL-Acrylic-Sheet-transparent-inches/dp/B0CRL2472S?utm_source=chatgpt.com)                                |
+| **Total**               |                                                                                                                                                  | **$30.24** |                                                                                                                                                  |
 
   
 ## Credits --->
