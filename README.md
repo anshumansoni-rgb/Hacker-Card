@@ -43,17 +43,18 @@ Overall I would rate this a 11/10 experience and would recommend every single te
 - select PCBA if you dont want to assemble it yourself (Which you should as it would give you some experience and order the PCB... after waiting a bit you would be having a functional NFC card in your hands!!!
 
 
-# Images (Cause why not)
+# Images (Cause why not):
 
+***1. PCB (Top Layer Visible)***
 <img width="803" height="523" alt="Screenshot 2026-11-10 134858" src="https://github.com/user-attachments/assets/2b7cbc7c-99e1-47fc-ad5c-d6d311b480f8" />
 
-
+***2. PCB (Bottom Layer Visiblle)***
 <img width="840" height="515" alt="Screenshot 2026-11-10 134915" src="https://github.com/user-attachments/assets/f9b85193-c4ab-4d2b-8b1b-9decc9bcb78b" />
 
-
+***3. 3D model of PCB (Top Layer)***
 <img width="822" height="555" alt="Screenshot 2026-11-10 134925" src="https://github.com/user-attachments/assets/3b7572b9-193d-4a2b-89e9-c3592a6b7cad" />
 
-
+***4. 3D Model of PCB (Bottom Layer)***
 <img width="836" height="530" alt="Screenshot 2026-11-10 134940" src="https://github.com/user-attachments/assets/e0e5a653-aa29-4a34-bd3f-5499bde2d54f" />
 
 
